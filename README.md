@@ -10,4 +10,4 @@
 - Eunyeogn Kim, [GitHub](https://github.com/unnnyong)
 - Sangho Youn, [GitHub](https://github.com/angelring127)
 - Sungmin Park, [GitHub](https://github.com/ispark323)
-- 감정한, [GitHub](https://github.com/jgam)
+- Jeonghan Gam, [GitHub](https://github.com/jgam)
