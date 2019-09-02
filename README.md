@@ -6,7 +6,7 @@
 
 > 주최자 이외는 ABC순 입니다.
 
-- Kihwan Park (주최자), [GitHub](https://github.com/KihwanPark)
+- Kihwan Park (주최자)
 - Eunyeogn Kim, [GitHub](https://github.com/unnnyong)
 - Sangho Youn, [GitHub](https://github.com/angelring127)
 - Sungmin Park, [GitHub](https://github.com/ispark323)
