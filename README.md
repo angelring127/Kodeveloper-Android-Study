@@ -11,3 +11,7 @@
 - Sangho Youn, [GitHub](https://github.com/angelring127)
 - Sungmin Park, [GitHub](https://github.com/ispark323)
 - Jeonghan Gam, [GitHub](https://github.com/jgam)
+
+> kotlin 공부에 도움되는 Url
+
+- [코틀린 학습 리소스](https://developer.android.com/kotlin/resources?hl=ko)
