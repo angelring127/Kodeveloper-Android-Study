@@ -4,6 +4,10 @@ import java.text.DateFormat
 import java.text.SimpleDateFormat
 import java.util.*
 
+
+/*
+* 메모 아이템 구성 요소를 정의
+* */
 class MemoItem {
 
     private val TAG:String = "MemoItem"
